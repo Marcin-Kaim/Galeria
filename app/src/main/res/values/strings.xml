@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Galeria</string>
+    <string name="galeria">Galeria</string>
+    <string name="next">NEXT</string>
+    <string name="ktory">Który obraz wyświetlić?</string>
+    <string name="tlo">Tlo niebieskie?</string>
+    <string name="autor">Autor: 00000000000</string>
+</resources>
